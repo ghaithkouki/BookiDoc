@@ -1,4 +1,5 @@
 # 🩺 BookiDoc – Online Doctor Appointment & Practice Management Platform
+![BookiDoc Landig Page](img/boc.png)
 
 ## 🚀 Overview
 
