@@ -1,55 +1,50 @@
-BookiDoc – Online Doctor Appointment & Practice Management Platform
-📄 Overview
+# BookiDoc – Online Doctor Appointment & Practice Management Platform
 
-BookiDoc is a full-featured web platform designed to streamline the process of booking medical appointments online. Patients can easily find, review, and schedule appointments with healthcare professionals, while doctors can manage their availability, profile, and appointment schedules. The system also includes a powerful admin panel for overseeing users, data, and platform activity.
+## Overview
 
-Whether you're a patient seeking trusted medical care or a doctor aiming to simplify your practice management, BookiDoc offers a secure and user-friendly solution.
+**BookiDoc** is a comprehensive web platform that enables patients to find, review, and book appointments with medical professionals. Healthcare providers can register, manage their profiles, and handle appointments seamlessly, while administrators oversee users and platform data. The system is designed to streamline medical appointment management securely and efficiently.
 
-✅ Key Features
-🧑‍⚕️ For Patients
+> ⚠️ **Note:** This repository contains only project documentation and does **not** include the source code. The BookiDoc platform is a proprietary product.
 
-Register, log in, and manage personal profiles
+---
 
-Search doctors by specialty, location, and availability
+## Key Features
 
-Book, view, and cancel appointments
+- Patient registration, login, and profile management  
+- Doctor registration with multi-step onboarding and document upload  
+- Search and browse doctors by specialty and location  
+- Book, view, and manage appointments  
+- Doctor dashboard for managing schedules, appointments, and subscription statistics  
+- Patient dashboard for appointment history and doctor management  
+- Review and rating system for doctors  
+- Admin dashboard for managing users, doctors, and appointments  
+- Secure authentication and session management  
+- Responsive design with Bootstrap  
 
-Access appointment history
+---
 
-Rate and review doctors
+## Technologies Used
 
-👨‍⚕️ For Doctors
+- Backend: PHP (PDO for database access)  
+- Frontend: HTML5, CSS3, Bootstrap 5, JavaScript  
+- Database: MySQL  
+- Email: PHPMailer  
+- Icons: Font Awesome, Bootstrap Icons  
 
-Multi-step registration with document upload
+---
 
-Manage availability, appointments, and personal dashboard
+## Live Demo
 
-View subscription analytics and patient reviews
+Access the live BookiDoc platform at:  
+[bookidoc.wuaze.com](bookidoc.wuaze.com)
 
-🛠️ For Admins
+---
 
-Full-featured admin panel
+## Contact / Support
 
-Manage doctors, patients, appointments, and reviews
+For inquiries or support, please contact:  
+[ghaithkouki0714@gmail.com](mailto:ghaithkouki0714@gmail.com)
 
-Monitor platform usage and statistics
+---
 
-🔐 Core Features
-
-Secure authentication and session management
-
-Responsive and mobile-friendly design
-
-Role-based access control
-
-💻 Technologies Used
-
-Backend: PHP (with PDO for secure database interaction)
-
-Frontend: HTML5, CSS3, Bootstrap 5, JavaScript
-
-Database: MySQL
-
-Email Service: PHPMailer
-
-Icons & UI: Font Awesome, Bootstrap Icons
+© 2025 BookiDoc. All rights reserved.
