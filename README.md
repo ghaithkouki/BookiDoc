@@ -36,7 +36,7 @@
 ## 🌐 Live Demo
 
 Access the live BookiDoc platform here:  👉 [BookiDoc](https://bookidoc.wuaze.com)
-)
+
 
 ---
 
